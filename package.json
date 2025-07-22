@@ -19,7 +19,7 @@
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.0",
     "cz-git": "^1.11.1",
-    "eslint": "^9.23.0",
+    "eslint": "^9.31.0",
     "eslint-plugin-oxlint": "^0.16.2",
     "oxlint": "^0.16.3",
     "prettier": "^3.5.3",
